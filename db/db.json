@@ -6,18 +6,34 @@
       "text": "Test text"
     },
     {
-      "title": "Complete work",
-      "text": "due on sunday at midnight"
+      "title": "Call bank on Friday",
+      "text": "Call CIBC to discuss mortgage",
+      "id": "1"
     },
     {
-      "title": "Complete work",
-      "text": "due on sunday at midnight",
+      "title": "Reschedule delivery",
+      "text": "Not home on monday, reschedule delivery of couch",
       "id": "2"
     },
     {
-      "title": "test",
-      "text": "new note test",
+      "title": "Finish Payroll",
+      "text": "Payroll due tuesday for employees,  adjust for employee's overtime",
       "id": "3"
+    },
+    {
+      "title": "Check in with Clients",
+      "text": "Ensure clients provide all signed paperwork to submit to insurance",
+      "id": "4"
+    },
+    {
+      "title": "Client lunch on Thursday",
+      "text": "Lunch meeting with client at Chateau Laurier reservations for afternoon tea",
+      "id": "5"
+    },
+    {
+      "title": "Balance accounts",
+      "text": "Balance account books by end of day on Monday\n",
+      "id": "6"
     }
   ]
 }
